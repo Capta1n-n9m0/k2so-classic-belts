@@ -1,0 +1,9 @@
+{
+  "name": "k2so-classic-belts",
+  "version": "1.0.0",
+  "title": "K2SO Classic Belts",
+  "author": "Capta1n_n9m0",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1", "Krastorio2", "Krastorio2-spaced-out"],
+  "description": "Undoes three Krastorio 2 Spaced Out logistics changes: express underground belts reach 20 tiles again, the K2 advanced belt, underground belt and splitter come back, and express splitters, underground belts and loaders (plus the K2 advanced loader) are hand-craftable again without lubricant."
+}

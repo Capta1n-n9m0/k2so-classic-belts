@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-10-11
+  Features:
+    - Express underground belts reach 20 tiles again (Krastorio2-spaced-out cuts it to 15).
+    - The K2 advanced transport belt, underground belt and splitter are back, unlocked by kr-logistic-4.
+    - Express splitter, express underground belt and express loader are hand-craftable again without lubricant.
+    - The K2 advanced loader uses its K2 recipe again (advanced belt, express loaders, rare metals).
