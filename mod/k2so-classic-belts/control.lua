@@ -24,3 +24,7 @@ end
 
 script.on_init(refresh)
 script.on_configuration_changed(refresh)
+
+if script.active_mods["factorio-test"] then
+	require("__factorio-test__/init")({ "tests/classic-belts" })
+end
